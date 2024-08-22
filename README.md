@@ -1,11 +1,8 @@
-# Links importantes
+## ✨ Repositorio del grupo ✨
 
+En cada carpeta hay links/enlaces a los respectivos lugares para trabajar en los informes y las presentaciones menos de donde estaremos comentando de nuestro avance (invitacion al Doc/Word que mandó el Nacho) y del chat grupal de WhatsApp.
 
-* Informe: https://www.overleaf.com/2241739326scvzxmjrmxjg#7fc0b8
+# 🚨 TAREAS URGENTES GRUPALES 🚨
 
-* Presentación: https://www.canva.com/design/DAGOlsMSEqE/rUs3oF7sbHdBiqRQ3NQzCg/edit?utm_content=DAGOlsMSEqE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-* Conda (Actas G14): https://coda.io/d/Actas-Capstone-G14_d31CYF_jU1V/
-
----------------------------------------
-
+1. **Definir horario para reuniones con el profesor**.
+2. Acordar fecha para discutir avances entre nosotros.
