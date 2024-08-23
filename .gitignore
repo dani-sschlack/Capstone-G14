@@ -1,5 +1,13 @@
+# Si tienen archivos fantasma/invisibles o cosas que no quieren subir
+# al git porfa dejenlas escritas aquí, sino cuando agan git add del archivo
+# se va a subir al repo y después es un cacho bajarlo
+
+# Lo que esta en formato **/.nombre_archivo sirve para ruta relativas
+
 .Rhistory
 .Rapp.history
+**/.Rhistory
+**/.Rapp.history
 
 .DS_Store
 **/.DS_Store
